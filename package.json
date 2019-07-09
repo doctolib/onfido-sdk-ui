@@ -1,5 +1,5 @@
 {
-  "name": "onfido-sdk-ui",
+  "name": "@doctolib/onfido-sdk-ui",
   "version": "5.2.2",
   "description": "JavaScript SDK view layer for Onfido identity verification",
   "scripts": {
